@@ -13,5 +13,7 @@
     "quotes": "off",
     "no-console": "off",
     "indent": ["error", 4]
-  }
+  },
+  "plugins": ["only-warn"]
+
 }
